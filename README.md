@@ -1,6 +1,6 @@
 # Weather & Joke Fetching App
 
-A simple weather application that allows users to check the current weather conditions for any city. The app fetches data from a weather API and displays it in a user-friendly format. It also fetches jokes depending on the weather type, i.e "dad jokes" if it's sunny.
+A simple weather application that allows users to check the current weather conditions for any city. The app fetches data from a weather API and displays it in a user-friendly format. It also fetches jokes depending on the weather type, i.e "dad jokes" if it's sunny. It's built with flask and some JS functions.
 
 ## Table of Contents
 - [Installation](#installation)
